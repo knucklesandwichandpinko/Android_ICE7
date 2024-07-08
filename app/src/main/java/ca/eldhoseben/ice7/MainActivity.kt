@@ -8,7 +8,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import ca.georgiancollege.ice7.databinding.ActivityMainBinding
 import kotlinx.coroutines.launch
 
-class MainActivity : AppCompatActivity()
+class  MainActivity : AppCompatActivity()
 {
     private lateinit var binding: ActivityMainBinding
 
